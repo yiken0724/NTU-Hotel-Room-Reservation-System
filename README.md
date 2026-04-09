@@ -75,4 +75,4 @@ Enter the corresponding number to select an option. Enter `5` to exit the progra
 
 ## Author
 
-CHOO0193 — NTU AY2022/23 Semester 1
+Choo Yi Ken — NTU AY2022/23 Semester 1
